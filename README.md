@@ -1,2 +1,2 @@
 # cl-springboot-cleanarchitecture-microservice-restful
-Example project Clean Architecture with Spring Boot (JAVA).
+Example Clean Architecture project with Spring Boot (JAVA)
